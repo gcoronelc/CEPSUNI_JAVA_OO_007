@@ -6,3 +6,4 @@
 ## Profesor
 
 - Nombre: Eric Gustavo Coronel Castillo
+- Blog: gcoronelc.blogspot.pe
