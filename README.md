@@ -1,2 +1,8 @@
-# CEPSUNI_JAVA_OO_007
-JAVA ORIENTADO A OBJETOS EN EL CEPSUNI.
+# JAVA ORIENTADO A OBJETOS
+
+## Datos del Curso
+- 
+
+## Profesor
+
+- Nombre: Eric Gustavo Coronel Castillo
